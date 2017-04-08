@@ -1,0 +1,3 @@
+plik tekstowy
+linijka 2
+linijka 3
